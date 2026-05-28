@@ -3,6 +3,8 @@
 **`Desenvolvedor Backend Java`**
 
 Me chamo Filipe Mateus, tenho 20 anos e sou natural de Brasília. Estou no o curso Análise e Desenvovimento de sistemas, estou no 1° semestre. Tenho um ano de experiência nessa área. Sei tecnologias como Spring Boot, Spring Security, Spring Data JPA, Docker, Git e Github, Html, CSS, Thymeleaf, Postgresql, SQL, Mysql.
+
+Email para contato: filipemateuswork@gmail.com
 <p align="left">
     <a href="https://www.linkedin.com/in/filipe-medeiros-36ba62261/">
         <img 
