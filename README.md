@@ -72,6 +72,51 @@ Busco oportunidades como **Desenvolvedor Backend Java**, contribuindo com soluç
 * HTML e CSS
 
 ---
+## 🚀 Projetos em Destaque
+
+### 🛒 E-Commerce Monolítico
+
+Sistema de e-commerce desenvolvido em **Java 21** e **Spring Boot 3**, seguindo boas práticas de arquitetura em camadas e foco em segurança, desempenho e testes.
+
+**Principais recursos:**
+
+* Autenticação e autorização com **Spring Security + JWT**
+* Controle de acesso baseado em **Roles**
+* Persistência com **Spring Data JPA** e **MySQL**
+* Cache de respostas utilizando **Redis**
+* Conversão entre entidades e DTOs com **MapStruct**
+* Testes unitários com **JUnit** e **Mockito**
+* Documentação da API com **Swagger/OpenAPI**
+* Containerização com **Docker e Docker Compose**
+
+**Tecnologias:** Java 21, Spring Boot, Spring Security, JWT, Redis, MySQL, Docker, JUnit, Mockito, MapStruct e Lombok.
+
+🔗 Repositório:
+https://github.com/FilipeMateusMS/e-commerce-monolith
+
+### ⚙️ E-Commerce em Microsserviços
+
+Projeto de e-commerce baseado em arquitetura de microsserviços, com foco em escalabilidade, observabilidade e comunicação assíncrona.
+
+**Principais recursos:**
+
+* Descoberta de serviços com **Eureka**
+* API Gateway com **Spring Cloud Gateway**
+* Configuração centralizada com **Spring Cloud Config**
+* Comunicação assíncrona com **Apache Kafka**
+* Banco de dados relacional com **PostgreSQL**
+* Persistência NoSQL com **MongoDB**
+* Rastreamento distribuído com **Zipkin**
+* Autenticação e autorização com **Keycloak**
+* Envio de e-mails com **Spring Mail**
+* Ambiente totalmente containerizado
+
+**Tecnologias:** Java 21, Spring Boot, Spring Cloud, PostgreSQL, MongoDB, Kafka, Zookeeper, Keycloak, Zipkin e Docker.
+
+🔗 Repositório:
+https://github.com/FilipeMateusMS/ecommerce-microsservices
+
+---
 
 <div>
   <a href="https://github.com/FilipeMateusMS">
