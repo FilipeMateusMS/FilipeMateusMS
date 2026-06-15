@@ -14,7 +14,7 @@ Busco oportunidades como **Desenvolvedor Backend Java**, contribuindo com soluç
 **Email:** `filipemateuswork@gmail.com`
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/filipe-medeiros-36ba62261/">
+    <a href="https://www.linkedin.com/in/filipe-mateus-work/">
         <img
             alt="LinkedIn"
             title="LinkedIn"
